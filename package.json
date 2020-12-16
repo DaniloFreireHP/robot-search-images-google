@@ -1,0 +1,19 @@
+{
+  "name": "robot-search-images-google",
+  "version": "1.0.0",
+  "description": "Automating image search on Google Images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaniloFreireHP/robot-search-images-google.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaniloFreireHP/robot-search-images-google/issues"
+  },
+  "homepage": "https://github.com/DaniloFreireHP/robot-search-images-google#readme"
+}
