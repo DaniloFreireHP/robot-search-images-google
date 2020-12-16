@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/DaniloFreireHP/robot-search-images-google/issues"
   },
-  "homepage": "https://github.com/DaniloFreireHP/robot-search-images-google#readme"
+  "homepage": "https://github.com/DaniloFreireHP/robot-search-images-google#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
